@@ -12,4 +12,4 @@ O projeto apresentado liga e desliga seu interruptor. Basta aproximar sua mão a
 - Arduíno Uno;
 
 ### Circuito
-![Circuito](/circuito1.png)
+![Circuito](./circuito1.PNG)
